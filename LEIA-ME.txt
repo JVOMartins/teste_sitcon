@@ -1,0 +1,2 @@
+Foi utilizado PHP para quase todas as funcionalidades.
+Parei (por causa do tempo) perto de finalizar a lógica que verificaria quem seria o fornecedor com o valor mais próximo da média.
